@@ -1,2 +1,1 @@
-# QuantumTecj
-Created with CodeSandbox
+# QuantumTech
